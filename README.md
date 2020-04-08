@@ -8,4 +8,5 @@ Image Processing And Visual Algorithm Coding Challenges Completed Using The SIPL
 ### * Barnsleys Fern Implementation
 ### * Random Walker Implementation
 ### * Game Of Life Implementation
+### * Interactive Gradient Decsent
 
